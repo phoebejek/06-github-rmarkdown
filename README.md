@@ -6,6 +6,6 @@ Click the image below to check out the video about GitHub!
 
 # Resources
 
-* Installing git, if you don't have it already: https://github.com/git-guides/install-git
+* Installing git (Or checking to see if you have it already): https://github.com/git-guides/install-git
 * Tutorial for linking GitHub and RStudio: https://www.ecoevomatics.org/2021/09/14/rstudio_github.html
 
