@@ -11,6 +11,8 @@ Click the image below to check out the video about GitHub!
 * Installing git (Or checking to see if you have it already): https://github.com/git-guides/install-git
 * Tutorial for linking GitHub and RStudio: https://www.ecoevomatics.org/2021/09/14/rstudio_github.html
 
+[Here](https://video.maine.edu/media/BIO%20597%3A%20eco-evo%20theory/1_4lwfxxwy) is the recording from class about GitHub (maine.edu log-in credentials needed).
+
 
 ## RMarkdown
 
